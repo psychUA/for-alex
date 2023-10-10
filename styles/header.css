@@ -1,0 +1,53 @@
+header {
+    height: 50px;
+    
+}
+header>.container {
+    height: 100%;
+    background-color: red;
+    padding-top: 12px;
+
+}
+
+.menu {
+    display: flex;
+    justify-content:space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+
+
+.menu-home {
+    font-size: 55px;
+    margin-top: -17px;
+    
+}
+.menu-home>a {
+    color: rgb(255, 255, 255);
+}
+
+.menu-contacts>ul {
+    list-style-type: none;
+    padding-left: 10px;
+    margin-top: 0%;
+    
+}
+
+.menu-contacts--aboutus {
+    display: flex;
+}
+
+.menu-contacts--aboutus>.con{
+    font-size: 45px;
+    margin-top: -9px;
+}
+.menu-aboutus {
+    margin-left: 20px;
+    font-size: 55px;
+    margin-top: -17px;
+    
+}
+.menu-aboutus>a{
+    color: rgb(255, 255, 255);
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+
+* {
+    font-family: 'Rubik Dirt';
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    line-height: 0.9;
+    margin: 0;
+    
+}
+a {
+    color: black;
+}
+ /* body{
+    background-color: red;
+ } */
+.container,.shadow {
+    max-width: 1000px;
+    margin: auto;
+    
+}
